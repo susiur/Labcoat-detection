@@ -1,0 +1,4 @@
+.venv/
+model.weights
+model.names
+model.cfg
